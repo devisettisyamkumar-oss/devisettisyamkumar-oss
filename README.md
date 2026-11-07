@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Syamkumar Devisetti 👋
 
-<!--
-**devisettisyamkumar-oss/devisettisyamkumar-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot | Full Stack Development
 
-Here are some ideas to get you started:
+Based in Hyderabad, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mechanical Engineering graduate transitioning into software development, focused on building backend applications using Java, Spring Boot, SQL, and REST APIs.
+
+## About Me
+
+- 🎯 Aspiring Java Backend Developer
+- 💻 Practicing Java, OOP, SQL, and Data Structures & Algorithms
+- 🌱 Learning Spring Boot, Spring Data JPA, and backend development
+- 🔨 Building full-stack and backend projects
+- 📫 Email: devisettisyamkumar@gmail.com
+
+## Tech Stack
+
+**Languages:** Java, JavaScript, SQL, HTML5, CSS3
+
+**Backend:** Spring Boot, JDBC, REST APIs, Spring Data JPA
+
+**Frontend:** React.js, HTML, CSS, JavaScript
+
+**Database:** MySQL, PostgreSQL
+
+**Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA
+
+## Projects
+
+### Transport Management Backend
+Backend application developed using Java and Spring Boot.
+
+- Customer management APIs
+- Vehicle owner and vehicle management
+- Booking management
+- REST API testing using Postman
+
+### Financial Freedom of People
+Financial management application focused on helping users manage their finances.
+
+### Food Much
+Food-related web application.
+
+### TiffinBox App
+Tiffin service application.
+
+## Connect With Me
+
+- [GitHub](https://github.com/devisettisyamkumar-oss)
+- [LinkedIn](https://www.linkedin.com/in/devisetti-syamkumar-682570321)
+- Email: devisettisyamkumar@gmail.com
