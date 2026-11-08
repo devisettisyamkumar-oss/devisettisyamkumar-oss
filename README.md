@@ -62,6 +62,7 @@ Mechanical Engineering graduate moving into software development to build reliab
 | Currently Learning | Java Collections, DSA, Spring Boot |
 
 ## Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -94,7 +95,6 @@ Mechanical Engineering graduate moving into software development to build reliab
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Responsive-Design-0E7490" alt="Responsive design" />
     </td>
-
     <td width="50%" valign="top">
       <h3>🚀 Transport Management Backend</h3>
       <p>Java and Spring Boot project with customer, vehicle-owner, vehicle and booking modules.</p>
