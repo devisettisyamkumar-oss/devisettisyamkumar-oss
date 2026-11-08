@@ -62,7 +62,6 @@ Mechanical Engineering graduate moving into software development to build reliab
 | Currently Learning | Java Collections, DSA, Spring Boot |
 
 ## Featured Projects
-## Featured Projects
 
 <table>
   <tr>
