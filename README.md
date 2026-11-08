@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0E7490&height=210&section=header&text=Syamkumar%20Devisetti&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Development&descAlignY=57&descSize=18&animation=fadeIn" alt="Animated profile banner" />
@@ -6,9 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&height=55&lines=Building+Java+backend+applications;Spring+Boot+%7C+SQL+%7C+REST+APIs;Learning+DSA+and+writing+clean+code;Turning+ideas+into+working+projects" alt="Animated typing introduction" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=devisettisyamkumar-oss&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
     <a href="https://portfolio-three-wine-1gigybydeh.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/devisetti-syamkumar-682570321">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:devisettisyamkumar@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -21,13 +22,13 @@
 
 ## About
 
-Mechanical Engineering graduate transitioning into software development, with a focus on Java backend engineering.
+Mechanical Engineering graduate moving into software development to build reliable Java backend systems.
 
 - 🎓 B.Tech in Mechanical Engineering — Sir C R Reddy College of Engineering (2022–2025)
-- 📍 Hyderabad, India
+- 📍 Kakinada, Andhra Pradesh, India
 - 💻 Focus: Core Java, Spring Boot, SQL and REST APIs
-- 🧩 Improving Data Structures and Algorithms
-- 🚀 Interested in backend development and building practical software applications.
+- 🧩 Practising Data Structures and Algorithms
+- 🚀 Motivated by turning real problems into practical, working software
 
 ## Technical Skills
 
@@ -41,9 +42,13 @@ Mechanical Engineering graduate transitioning into software development, with a 
 
 <img src="https://skillicons.dev/icons?i=spring,react" alt="Frameworks" />
 
-### Databases and Tools
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,maven,vscode,idea" alt="Databases and development tools" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" alt="Development tools" />
 
 </div>
 
@@ -92,37 +97,17 @@ Mechanical Engineering graduate transitioning into software development, with a 
 
     <td width="50%" valign="top">
       <h3>🚀 Transport Management Backend</h3>
-      <p>Java and Spring Boot learning project involving customer, vehicle-owner, vehicle and booking modules.</p>
-      <p><i>Public source repository link not yet available.</i></p>
+      <p>Java and Spring Boot project with customer, vehicle-owner, vehicle and booking modules.</p>
+      <p><i>Source repository coming soon.</i></p>
       <img src="https://img.shields.io/badge/Java-Backend-orange?logo=java" alt="Java backend" />
-      <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/devisettisyamkumar-oss?style=for-the-badge&label=Followers&color=0E7490" alt="GitHub followers" />
-
-  <img src="https://img.shields.io/github/stars/devisettisyamkumar-oss?style=for-the-badge&label=Total%20Stars&color=0E7490" alt="GitHub stars" />
-
-  <img src="https://img.shields.io/github/repo-size/devisettisyamkumar-oss/portfolio?style=for-the-badge&label=Portfolio%20Repo%20Size" alt="Portfolio repository size" />
-
-</div>
-
-### Contribution Streak
-
-<div align="center">
-
-  <img width="65%" src="https://streak-stats.demolab.com?user=devisettisyamkumar-oss&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
-
-</div>
-
-### Explore GitHub Activity
+## Explore GitHub Activity
 
 <div align="center">
 
@@ -138,7 +123,7 @@ Mechanical Engineering graduate transitioning into software development, with a 
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
